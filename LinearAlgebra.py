@@ -32,7 +32,7 @@ print("Solution vector p:")
 print(p)
 
 # Generate data points
-x = np.linspace(0, 3, 1000)
+x = np.linspace(0, 30, 1000)
 
 # Calculate y-values for the quadratic curve
 y = p[0] + p[1] * x + p[2] * x ** 2
