@@ -8,7 +8,7 @@ A = np.array([
     [17, 5, 4, 1, 1],
     [19, 2, 2, 3, 1]
 ])
-
+b=print('hi')
 b = np.array([170, 180, 130, 140, 185]).reshape((5, 1))
 
 A_inv = linalg.inv(A)
